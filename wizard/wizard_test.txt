@@ -7,6 +7,6 @@
 
 \f0\fs26 \cf0 \expnd0\expndtw0\kerning0
 name="Buzz"\
-url="https://github.com/sm1thy16/fsb"img="https://storage.googleapis.com/fsb/kodi/wizard/mainlogo\'94\
+url="https://github.com/sm1thy16/fsb/tree/master/wizard"img="https://storage.googleapis.com/fsb/kodi/wizard/mainlogo\'94\
 fanart="https://storage.googleapis.com/fsb/kodi/wizard/backlogo\'93\
 description="fsb Wizard setup"}
